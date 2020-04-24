@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">islamicapp</string>
+    <string name="qouran">قرأن</string>
+    <string name="ahades">أحاديث</string>
+    <string name="tasbeeh">تسبيح</string>
+</resources>
